@@ -1,0 +1,9 @@
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\bin\x64\Test\Balbada_LowGraphicsActivity.exe.config
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\bin\x64\Test\Balbada_LowGraphicsActivity.exe
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\bin\x64\Test\Balbada_LowGraphicsActivity.pdb
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.Form1.resources
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.Properties.Resources.resources
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.csproj.GenerateResource.cache
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.csproj.CoreCompileInputs.cache
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.exe
+C:\Users\John Marc\Documents\3rd Year\First Sem\CS345 - Intelligent Systems 1\Projects\lowgraphics\Balbada_LowGraphicsActivity\Balbada_LowGraphicsActivity\obj\x64\Test\Balbada_LowGraphicsActivity.pdb
